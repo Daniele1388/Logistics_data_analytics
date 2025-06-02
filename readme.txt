@@ -31,8 +31,6 @@ L’obiettivo è mostrare competenze pratiche nell’uso di strumenti come **Exc
 
 ## Obiettivo
 
-Questo progetto è stato realizzato come esempio pratico per una candidatura come **Analista Dati**.  
-Dimostra capacità di:
 - Analizzare dataset complessi
 - Individuare indicatori chiave di performance (KPI)
 - Costruire visualizzazioni chiare e utili per il business
