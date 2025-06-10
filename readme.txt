@@ -1,39 +1,39 @@
-# Progetto GLS – Analisi Dati
+# Business Logistics Analytics Project
 
-Questo repository contiene un progetto di analisi dati sviluppato per GLS, focalizzato su margini, efficienza economica e volumi di spedizione.  
-L’obiettivo è mostrare competenze pratiche nell’uso di strumenti come **Excel** e **Tableau** per l’analisi e la visualizzazione dei dati.
-
----
-
-## Contenuto del repository
-
-- **Progetto GLS.xlsx** → File Excel contenente i dati grezzi, calcoli e sintesi
-- **Progetto GLS.twb** → File Tableau Workbook con dashboard interattiva
+This repository contains a data analysis project focused on profit margins, cost efficiency, and shipping volumes.
+The goal is to demonstrate practical skills in Excel and Tableau for data processing and visualization.
 
 ---
 
-## Analisi effettuate
+## Repository Contents
 
-- Analisi trimestrale di margini e quote
-- Analisi totale dei volumi per area geografica
-- Mappa dell’efficienza economica regionale
-- Visualizzazione dei costi medi e volumi di spedizione
-- Confronto tra KPI per trimestre e regione
+- **Progetto GLS.xlsx** → Raw data, calculations, and summaries in Excel
+- **Progetto GLS.twb** → Interactive Tableau Workbook
 
 ---
 
-## Strumenti utilizzati
+## Key Analyses Performed
 
-- **Excel** → Per la preparazione e pulizia dei dati
-- **Tableau** → Per la creazione di dashboard e visualizzazioni interattive
+- Quarterly margin and market share analysis
+- Geographic shipping volume trends
+- Regional cost-efficiency mapping
+- Average cost vs. shipping volume visualization
+- Quarterly/regional KPI benchmarking
 
 ---
 
-## Obiettivo
+## Tools Used
 
-- Analizzare dataset complessi
-- Individuare indicatori chiave di performance (KPI)
-- Costruire visualizzazioni chiare e utili per il business
+- **Excel** → Data cleaning and preprocessing
+- **Tableau** → Interactive dashboards and visualizations
+
+---
+
+## Project Goals
+
+- Analyze complex logistics datasets
+- Extract actionable Key Performance Indicators (KPIs)
+- Build clear, business-ready visualizations
 
 ---
 
